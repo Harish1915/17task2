@@ -1,0 +1,76 @@
+.line{
+  width: 2px;
+  background-color: rgb(47, 205, 71);
+  height: 1280px;
+  position: absolute;
+  left: 27%;
+}
+.divider{
+  width: 520px;
+  height: 3px;
+  background-color: brown;
+  display: inline-block;
+}
+.container{
+  width: 25%;
+  background-color: rgb(235, 233, 236);
+}
+.skillset{
+  text-align: right;
+  color: white;
+  padding-right: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.AdobePhotography{
+  width: 85%;
+  background-color: rgb(201, 78, 56);
+
+}
+p{
+  margin-bottom: 2px;
+  font-size: 22px;
+}
+.Photography{
+  width: 80%;
+  background-color: rgb(76, 0, 255);
+}
+.Illustrator{
+  width: 75%;
+  background-color: rgb(255, 0, 174);
+}
+.media{
+  width: 65%;
+  background-color: rgb(32, 241, 53);
+}
+.English{
+  width: 100%;
+  background-color: chocolate;
+}
+.Spanish{
+  width: 50%;
+  background-color: rgb(54, 195, 230);
+}
+.German{
+  width: 30%;
+  background-color: rgb(12, 12, 11);
+}
+.txt1{
+    position: absolute;
+    top: 270px;
+   }
+  
+   .txt2{
+    position: absolute;
+    top: 20px;
+  margin-left: 550px;
+    float: right;
+    width: 49%;
+  }
+  .bottom{
+    width: 100%;
+    background-color: cornflowerblue;
+    height: 100px;
+    position: absolute;
+
+  }
